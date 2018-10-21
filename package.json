@@ -1,0 +1,23 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "This is my first step towards nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohd-Afzal/nodejs.git"
+  },
+  "author": "afzal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohd-Afzal/nodejs/issues"
+  },
+  "homepage": "https://github.com/Mohd-Afzal/nodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}

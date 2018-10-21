@@ -1,0 +1,20 @@
+  ELEMENTS
+
+1. Divs are block level elements. They make a container around the contents inside it.
+   Block level elements terminate with an end.
+
+2. Span tag is an inline tag that can be used to surround a specific text so as to change it
+   dynamically or give a colour or something.
+
+
+   ATTRIBUTES
+
+1. Adding additional info to Tags
+
+eg: <img src="link to the image">
+img is a Tag and src is a source
+
+
+  FORMS
+1. action - where the form sends data to
+2. method - what HTTP method (get/post)
